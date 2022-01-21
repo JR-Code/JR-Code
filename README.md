@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jason
 - 👀 I’m interested in front end Web Development career.
-- 🌱 I’m currently learning CSS amd JavaScript
+- 🌱 I’m currently learning CSS and JavaScript
 - 💞️ I’m looking to collaborate on small projects.
 - 📫 My Email: jason.reyes0627@gmail.com
 
